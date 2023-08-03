@@ -1,6 +1,6 @@
 # sarvali_alumni
 
-A new Flutter project.
+A school alumi Application
 
 ## Getting Started
 
